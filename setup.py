@@ -16,7 +16,7 @@ setuptools.setup(
     install_requires=[
         "torch",
         "numpy",
-        "librosa==0.8.1",
+        "librosa",
         "scipy",
         #"tensorboard",
         "soundfile",
